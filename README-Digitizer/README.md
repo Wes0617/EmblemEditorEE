@@ -11,8 +11,9 @@ Download these images and try to use them with the Digitizer.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-| Name   | Image              |
-|--------|--------------------|
-| Text   | ![](example-1.png) |
-| sdfsd  | ![](example-2.png) |
-| sdfsd  | ![](example-3.png) |
+| Size    | Image              | Description                   |
+|---------|--------------------|-------------------------------|
+| 64x64   | ![](example-1.png) | Hello World text "pixelated". |
+| 128x128 | ![](example-2.png) | Hello World antialiased.      |
+| 128x128 | ![](example-3.png) | Random lines.                 |
+| 32x32   | ![](example-4.png) | Low-resolution "kekw" emoji.  |
