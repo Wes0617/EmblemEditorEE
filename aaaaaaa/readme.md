@@ -14,7 +14,7 @@ I haven't tested with Greasemonkey (i.e. the Firefox equivalent of Tampermonkey)
 - Copy the code in [emblem-editor-expanded-enhanced.js](emblem-editor-expanded-enhanced.js) in the clipboard.
 
 - Create a new Tampermonkey script and paste the code into it, then Save.
-![](README-tampermonkey.png)
+![](readme-tampermonkey.png)
 
 - Navigate to an existing emblem or a new emblem in Social Club.
 
@@ -29,7 +29,7 @@ This solution uses no third-party software.
 - Copy the code in [emblem-editor-expanded-enhanced.js](emblem-editor-expanded-enhanced.js) in the clipboard.
 
 - Press F12 to open the Javascript console, paste the code and press Enter to execute it.
-![](README-console.png)
+![](readme-console.png)
 
 - Press F12 again to close the Javascript console.
 
@@ -37,6 +37,6 @@ This solution uses no third-party software.
 
 ### Check out some examples:
 
-- [Digitizer Examples](README-Digitizer/)
+- [Digitizer Examples](readme-Digitizer/readme.md)
 
-- [Import Examples](README-Import/)
+- [Import Examples](readme-Import/readme.md)
