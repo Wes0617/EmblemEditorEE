@@ -15,6 +15,8 @@ I recommend this installation method because once it's installed you won't need 
 
 ### Run with no installation:
 
+------------------------------------------------------------------------------------------------------------------------
+
 This solution uses no third-party software.
 
 - Navigate to an existing emblem or a new emblem in Social Club.
@@ -25,6 +27,8 @@ This solution uses no third-party software.
 ![](README-console.png)
 
 - Press F12 again to close the Javascript console.
+
+------------------------------------------------------------------------------------------------------------------------
 
 ### Check out some examples:
 
