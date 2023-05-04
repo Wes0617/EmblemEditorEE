@@ -1,8 +1,13 @@
 # Emblem Editor Expanded & Enhanced
 
-### Installation as Tampermonkey user-script:
+Adds batch and backup functionality to the Emblem Editor.
+
+------------------------------------------------------------------------------------------------------------------------
+
+### Run as Tampermonkey user-script:
 
 I recommend this installation method because once it's installed you won't need to deal with code anymore.
+I haven't tested with Greasemonkey (i.e. the Firefox equivalent of Tampermonkey). It should work though.
 
 - Install the Tampermonkey extension from the Chrome Web Store.
 
@@ -13,9 +18,9 @@ I recommend this installation method because once it's installed you won't need 
 
 - Navigate to an existing emblem or a new emblem in Social Club.
 
-### Run with no installation:
-
 ------------------------------------------------------------------------------------------------------------------------
+
+### Run with no installation:
 
 This solution uses no third-party software.
 
