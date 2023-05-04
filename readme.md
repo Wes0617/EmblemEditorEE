@@ -2,6 +2,8 @@
 
 Adds batch and backup functionality to the Emblem Editor.
 
+[raw-code]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/emblem-editor-expanded-enhanced.js
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ### Run as Tampermonkey user-script:
@@ -11,7 +13,7 @@ I haven't tested with Greasemonkey (i.e. the Firefox equivalent of Tampermonkey)
 
 - Install the Tampermonkey extension from the Chrome Web Store.
 
-- Copy the code in [emblem-editor-expanded-enhanced.js](emblem-editor-expanded-enhanced.js) in the clipboard.
+- Copy the code in [emblem-editor-expanded-enhanced.js][raw-code] in the clipboard.
 
 - Create a new Tampermonkey script and paste the code into it, then Save.
 ![](readme-tampermonkey.png)
@@ -26,7 +28,7 @@ This solution uses no third-party software.
 
 - Navigate to an existing emblem or a new emblem in Social Club.
 
-- Copy the code in [emblem-editor-expanded-enhanced.js](emblem-editor-expanded-enhanced.js) in the clipboard.
+- Copy the code in [emblem-editor-expanded-enhanced.js][raw-code] in the clipboard.
 
 - Press F12 to open the Javascript console, paste the code and press Enter to execute it.
 ![](readme-console.png)
