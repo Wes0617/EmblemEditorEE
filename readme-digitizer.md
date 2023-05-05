@@ -1,4 +1,4 @@
-# The Digitizer
+# Digitizer
 
 Emblem Editor Expanded & Enhanced
 

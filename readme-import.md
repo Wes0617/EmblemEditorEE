@@ -10,12 +10,20 @@ Download one of the **.eeee.txt** files below and try adding it with the Import 
 
 ------------------------------------------------------------------------------------------------------------------------
 
-[midnight-raw]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/midnight.eeee.txt
-[martini-raw]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/martini.eeee.txt
-[bugstars-raw]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/bugstars.eeee.txt
+[s1]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/midnight.eeee.txt
+[s2]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/martini.eeee.txt
+[s3]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/bugstars.eeee.txt
 
-| Source (Right-click, Save as...)  | Result            | Game Result            | Description         | Author        |
-|-----------------------------------|-------------------|------------------------|---------------------|---------------|
-| [midnight.eeee.txt][midnight-raw] | ![](midnight.png) | [Result](midnight.jpg) | Mid Night Logo      | Wes           |
-| [martini.eeee.txt][martini-raw]   | ![](martini.png)  | [Result](martini.jpg)  | Martini Racing Logo | Wes           |
-| [bugstars.eeee.txt][bugstars-raw] | ![](bugstars.png) | [Result](bugstars.jpg) | Bugstars Logo       | Wes           |
+[r1]: ./readme-import/midnight.png
+[r2]: ./readme-import/martini.png
+[r3]: ./readme-import/bugstars.png
+
+[g1]: ./readme-import/midnight.jpg
+[g2]: ./readme-import/martini.jpg
+[g3]: ./readme-import/bugstars.jpg
+
+| Source (Right-click, Save as…)    | Result  | Game Result  | Description         | Author                            |
+|-----------------------------------|---------|--------------|---------------------|-----------------------------------|
+| [midnight.eeee.txt][s1]           | ![][r1] | [Result][g1] | Mid Night Logo      | Wes                               |
+| [martini.eeee.txt][s2]            | ![][r2] | [Result][g2] | Martini Racing Logo | Wes                               |
+| [bugstars.eeee.txt][s3]           | ![][r3] | [Result][g3] | Bugstars Logo       | Wes                               |

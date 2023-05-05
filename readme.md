@@ -39,6 +39,6 @@ This solution uses no third-party software.
 
 ### Check out some examples:
 
-- [Digitizer Examples](readme-digitizer/readme.md)
+- [Digitizer Examples](readme-digitizer.md)
 
-- [Import Examples](readme-import/readme.md)
+- [Import Examples](readme-import.md)
