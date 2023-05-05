@@ -23,9 +23,9 @@ Download these images and try to use them with the Digitizer.
 
 [r4]: ./readme-digitizer/result-4.jpg
 
-| Size    | Layer Count | Image   | Result       | Description                                                         |
-|---------|-------------|---------|--------------|---------------------------------------------------------------------|
-| 32x32   | 136 / ~830  | ![][e1] | N/A          | Hello World text "pixelated".                                       |
-| 128x128 | 724 / ~830  | ![][e2] | N/A          | Hello World antialiased.                                            |
-| 128x128 | 516 / ~830  | ![][e3] | N/A          | Random lines.                                                       |
-| 32x32   | 784 / ~830  | ![][e4] | [Result][r4] | Low-resolution "kekw" emoji.                                        |
+| Size    | Layer Count | Image (Right-click, Save Image as…) | Result       | Description                             |
+|---------|-------------|-------------------------------------|--------------|-----------------------------------------|
+| 32x32   | 136 / ~830  | ![][e1]                             | N/A          | Hello World text "pixelated".           |
+| 128x128 | 724 / ~830  | ![][e2]                             | N/A          | Hello World antialiased.                |
+| 128x128 | 516 / ~830  | ![][e3]                             | N/A          | Random lines.                           |
+| 32x32   | 784 / ~830  | ![][e4]                             | [Result][r4] | Low-resolution "kekw" emoji.            |
