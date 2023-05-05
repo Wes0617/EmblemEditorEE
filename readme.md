@@ -1,8 +1,12 @@
+[raw-code]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/emblem-editor-expanded-enhanced.js
+
 # Emblem Editor Expanded & Enhanced
 
 Adds batch and backup functionality to the Emblem Editor.
 
-[raw-code]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/emblem-editor-expanded-enhanced.js
+Mandatory educational note: **This code is open source. You can verify yourself what it does, or you can ask a friend
+to do that. Never run code you don't know. Never obfuscated code. Only run code from people or organizations you trust,
+or open source, verified code.**
 
 ------------------------------------------------------------------------------------------------------------------------
 
