@@ -10,7 +10,10 @@ Download one of the **.eeee.txt** files below and try adding it with the Import 
 
 ------------------------------------------------------------------------------------------------------------------------
 
-| Source                                 | Result            | Game Result            | Description         | Author   |
-|----------------------------------------|-------------------|------------------------|---------------------|----------|
-| [midnight.eeee.txt](midnight.eeee.txt) | ![](midnight.png) | [Result](midnight.jpg) | Mid Night Logo      | Wes      |
-| [martini.eeee.txt](martini.eeee.txt)   | ![](martini.png)  | [Result](martini.jpg)  | Martini Racing Logo | Wes      |
+[midnight-raw]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/midnight.eeee.txt
+[martini-raw]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/martini.eeee.txt
+
+| Source                            | Result            | Game Result            | Description         | Author        |
+|-----------------------------------|-------------------|------------------------|---------------------|---------------|
+| [midnight.eeee.txt][midnight-raw] | ![](midnight.png) | [Result](midnight.jpg) | Mid Night Logo      | Wes           |
+| [martini.eeee.txt][martini-raw]   | ![](martini.png)  | [Result](martini.jpg)  | Martini Racing Logo | Wes           |
