@@ -13,17 +13,21 @@ Download one of the **.eeee.txt** files below and try adding it with the Import 
 [s1]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/midnight.eeee.txt
 [s2]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/martini.eeee.txt
 [s3]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/bugstars.eeee.txt
+[s4]: https://raw.githubusercontent.com/Wes0617/EmblemEditorEE/main/readme-import/drive.eeee.txt
 
 [r1]: ./readme-import/midnight.png
 [r2]: ./readme-import/martini.png
 [r3]: ./readme-import/bugstars.png
+[r4]: ./readme-import/drive.png
 
 [g1]: ./readme-import/midnight.jpg
 [g2]: ./readme-import/martini.jpg
 [g3]: ./readme-import/bugstars.jpg
+[g4]: ./readme-import/drive.jpg
 
 | Source (Right-click, Save as…)    | Result  | Game Result  | Description         | Author                            |
 |-----------------------------------|---------|--------------|---------------------|-----------------------------------|
 | [midnight.eeee.txt][s1]           | ![][r1] | [Result][g1] | Mid Night Logo      | Wes                               |
 | [martini.eeee.txt][s2]            | ![][r2] | [Result][g2] | Martini Racing Logo | Wes                               |
 | [bugstars.eeee.txt][s3]           | ![][r3] | [Result][g3] | Bugstars Logo       | Wes                               |
+| [drive.eeee.txt][s4]              | ![][r4] | [Result][g4] | Drive Scorpion      | Wes                               |

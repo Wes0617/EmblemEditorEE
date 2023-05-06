@@ -9,7 +9,8 @@ Adds batch and backup functionality to the Emblem Editor.
 Mandatory educational note: **This code is open source. You can verify yourself what it does, or you can ask a friend
 to do that. Never run code you don't know. Never run obfuscated code. Only run code from people or organizations you
 trust, or open source, verified code. I.e. categorically don't trust the "emblem creation services" that provide you
-with random hidden code to run in your console. They super dodgy. Just NO.**
+with random hidden code to run in your console. They super dodgy. Just NO.** Also this is friendly to the Emblem Editor,
+it doesn't "hack" into it, it just "uses" it… at superhuman speed.
 
 ------------------------------------------------------------------------------------------------------------------------
 

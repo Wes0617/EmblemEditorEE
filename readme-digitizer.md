@@ -7,12 +7,11 @@ Emblem Editor Expanded & Enhanced
 The digitizer converts a 16x16, 32x32, 64x64 or 128x128 PNG into "pixels" in the Emblem Editor.
 The digitizer always adds layers on top of the existing image. Transparent pixels are discared.
 
-128x128 images give the best quality, but they also use a lot of layers. Therefore, use 128x128 for lines, contours,
-text, etc., and lower resolutions to fill large areas of the canvas.
-
-Check out the [Import examples](./readme-import.md) for more complex examples.
-
-Download these images and try to use them with the Digitizer.
+Large 128x128 images will give the best quality, but they also use a lot of layers.
+So, make sure to use 128x128 for lines, contours, text, etc.
+Instead, 16x16 and 32x32 should be used to "flood fill" solid areas.
+Multiple iterations at different resolutions should be used for optimal results.
+Check out the [Import examples](./readme-import.md) for some high quality examples.
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -22,6 +21,8 @@ Download these images and try to use them with the Digitizer.
 [e4]: ./readme-digitizer/example-4.png
 
 [r4]: ./readme-digitizer/result-4.jpg
+
+Download these images and try to use them with the Digitizer.
 
 | Size    | Layer Count | Image (Right-click, Save Image as…) | Result       | Description                             |
 |---------|-------------|-------------------------------------|--------------|-----------------------------------------|
