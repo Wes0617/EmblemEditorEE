@@ -20,7 +20,7 @@ Download one of the **.eeee.txt** files below and try adding it with the Import 
 [r2]: ./readme-import/martini.png
 [r3]: ./readme-import/bugstars.png
 [r4]: ./readme-import/drive.png
-[r5]: ./readme-import/redneck.jpg
+[r5]: ./readme-import/redneck.png
 
 [g1]: ./readme-import/midnight.jpg
 [g2]: ./readme-import/martini.jpg
