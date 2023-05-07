@@ -30,7 +30,7 @@ I haven't tested with Greasemonkey (i.e. the Firefox equivalent of Tampermonkey)
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### Run with no installation:
+### Otherwise, run with no installation:
 
 This solution uses no third-party software.
 
