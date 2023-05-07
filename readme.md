@@ -26,7 +26,7 @@ I haven't tested with Greasemonkey (i.e. the Firefox equivalent of Tampermonkey)
 
 - Install the Tampermonkey extension from the Chrome Web Store.
 
-- Copy the code in [emblem-editor-expanded-enhanced.js][raw-code] in the clipboard.
+- Copy the code in [emblem-editor-expanded-enhanced.js][raw-code] to the clipboard.
 
 - Create a new Tampermonkey script and paste the code into it, then Save.
 ![](readme-tampermonkey.png)
@@ -41,7 +41,7 @@ This solution uses no third-party software.
 
 - Navigate to an existing emblem or a new emblem in Social Club.
 
-- Copy the code in [emblem-editor-expanded-enhanced.js][raw-code] in the clipboard.
+- Copy the code in [emblem-editor-expanded-enhanced.js][raw-code] to the clipboard.
 
 - Press F12 to open the Javascript console, paste the code and press Enter to execute it.
 ![](readme-console.png)
@@ -50,7 +50,7 @@ This solution uses no third-party software.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### Remember to make the background transparent>
+### Remember to make the background transparent:
 
 By default the canvas has a white background, but it actually supports transparent pixels.
 I putting this here because I feel this will be a common issue
