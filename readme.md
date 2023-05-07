@@ -6,6 +6,11 @@ Adds batch and backup functionality to the Emblem Editor.
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Check out some [Digitizer Examples](readme-digitizer.md) and [Import Examples](readme-import.md).
+But first, make sure you read the guide below!
+
+------------------------------------------------------------------------------------------------------------------------
+
 This code is open source. You can verify yourself what it does, or you can ask a friend to do that.
 Never run code you don't know. Never run obfuscated code. Only run code from people or organizations you
 trust, or open source, verified code. I.e. categorically don't trust the "emblem creation services" that provide you
@@ -53,11 +58,3 @@ for people that have never used the emblem editor before.
 So, here's how: select the red diagonal line from the background color picker.
 
 ![](readme-background.png)
-
-------------------------------------------------------------------------------------------------------------------------
-
-### Check out some examples:
-
-- [Digitizer Examples](readme-digitizer.md)
-
-- [Import Examples](readme-import.md)
