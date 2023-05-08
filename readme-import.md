@@ -38,4 +38,4 @@ Download one of the **.eeee.txt** files below and try adding it with the Import 
 | [bugstars.eeee.txt][s3]           | ![][r3] | [Result][g3] | Bugstars Logo       | Wes                               |
 | [drive.eeee.txt][s4]              | ![][r4] | [Result][g4] | Drive's Scorpion    | Wes                               |
 | [redneck.eeee.txt][s5]            | ![][r5] | [Result][g5] | Redneck Spec        | Wes                               |
-| [walterwolf.eeee.txt][s6]         | ![][r6] | [Result][g6] | Walter Wolfc        | Wes                               |
+| [walterwolf.eeee.txt][s6]         | ![][r6] | [Result][g6] | Walter Wolf         | Wes                               |
