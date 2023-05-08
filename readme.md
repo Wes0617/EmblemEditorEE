@@ -6,7 +6,7 @@ Adds batch and backup functionality to the Emblem Editor.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Check out some [Digitizer Examples](readme-digitizer.md) and [Import Examples](readme-import.md).
+Check out some [:point_right: Digitizer Examples](readme-digitizer.md) and [:point_right: Import Examples](readme-import.md).
 But first, make sure to read the installation guide below!
 
 ------------------------------------------------------------------------------------------------------------------------
