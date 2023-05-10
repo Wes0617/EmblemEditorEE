@@ -4,9 +4,16 @@ Emblem Editor Expanded & Enhanced
 
 ------------------------------------------------------------------------------------------------------------------------
 
-This functionality allows to save and restore emblems to JSON files.
-Emblems can be shared with friends and edited manually with a text editor.
-Download one of the **.eeee.txt** files below and try adding it with the Import button.
+This functionality allows to save and restore emblems from and to JSON files. Emblems can be shared with friends and
+edited manually with a text editor, which is sometimes easier than using the web interface. Download one of the
+**.eeee.txt** files below and try adding it with the Import button.
+
+The rendering algorithm might change or may be improved in future, so I recommend keeping the emblems saved as
+**.eeee.txt** other than saved in the Social Club, because the JSON format will allow you to recreate the emblems from
+the original pixel information rather than its "result".
+
+Did you create a cool emblem? Feel free to submit it with the Pull Request option on GitHub,
+or post it in the [Issues](https://github.com/Wes0617/EmblemEditorEE/issues) section.
 
 ------------------------------------------------------------------------------------------------------------------------
 

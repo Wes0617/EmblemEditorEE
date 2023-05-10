@@ -4,7 +4,7 @@ Emblem Editor Expanded & Enhanced
 
 ------------------------------------------------------------------------------------------------------------------------
 
-The Scanner_ will convert the bitmap from a 16x16, 32x32, 64x64 or 128x128 PNG into pseudo-pixels in the Emblem Editor.
+The _Scanner_ will convert the bitmap from a 16x16, 32x32, 64x64 or 128x128 PNG into pseudo-pixels in the Emblem Editor.
 The new pixels will be added on top of the existing layers.
 
 Transparent pixels will be discarded, and, because of how the conversion process works, very dim pixels may be discarded
