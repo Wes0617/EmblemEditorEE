@@ -1,17 +1,20 @@
-# Digitizer
+# Scanner Guide and Examples
 
 Emblem Editor Expanded & Enhanced
 
 ------------------------------------------------------------------------------------------------------------------------
 
-The digitizer converts a 16x16, 32x32, 64x64 or 128x128 PNG into "pixels" in the Emblem Editor.
-The digitizer always adds layers on top of the existing image. Transparent pixels are discared.
+The _Image Scanner_ will convert the bitmap from a 16x16, 32x32, 64x64 or 128x128 PNG into "pixels" in the Emblem
+Editor. The new pixels will be added on top of the existing layers.
 
-Large 128x128 images will give the best quality, but they also use a lot of layers.
-So, make sure to use 128x128 for lines, contours, text, etc.
-Instead, 16x16 and 32x32 should be used to "flood fill" solid areas.
-Multiple iterations at different resolutions should be used for optimal results.
-Check out the [Import examples](./readme-import.md) for some high quality examples.
+Transparent pixels will be discarded, and very dim pixels may be discarded too, because of how the conversion process
+works. These dim pixels don't produce appreciable results given that the emblems are so small. For this reason they
+shouldn't be added to the canvas in the first place.
+
+Large 128x128 images will give the best quality, but they also use a lot of layers. So, make sure to use 128x128 for
+lines, contours, text, etc. Instead, 16x16 and 32x32 should be used to "fill" large solid areas. For optimal results,
+you will need to use separate passes of different resolutions. Check out the [Import examples](./readme-import.md) for
+some high quality examples.
 
 ------------------------------------------------------------------------------------------------------------------------
 

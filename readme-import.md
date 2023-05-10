@@ -1,4 +1,4 @@
-# Import / Export
+# Import / Export Guide and Examples
 
 Emblem Editor Expanded & Enhanced
 
